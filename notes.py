@@ -34,3 +34,6 @@ instructors.insert(0, 'Done')
 # print(instructors)
 
 ['start','end','step']
+
+name = 'john'
+print([char.upper() for char in name])
